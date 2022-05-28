@@ -108,5 +108,30 @@ If response is ```1``` then the page is redirected to the main home page and sho
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+## Running the project
+
+- Flask API
+
+![image](https://user-images.githubusercontent.com/25116462/170831669-224ff07b-adbe-486e-b96e-447f230b703b.png)
+
+- Backend Server 
+
+![image](https://user-images.githubusercontent.com/25116462/170831726-5ce77d75-901e-4f88-9bca-f7ba62ec793b.png)
+
+
+
+##Screenshots
+
+- Sign In
+
+![image](https://user-images.githubusercontent.com/25116462/170831745-0e6b3246-81e6-44c3-a65c-bcb55527f607.png)
+
+- Register 
+
+![image](https://user-images.githubusercontent.com/25116462/170831762-df3718f9-dd21-403e-a748-d9509eb69f15.png)
+
+
+
+
  
 
