@@ -12,8 +12,8 @@
 6. [ How to run? ](#HowToRun)
 7. [ API ](#API)
 8. [ Packages Used ](#Packages)
-9. [ Acknoledgements ](#Ack)
-10. [ Screen Shots ](#SreenShots)
+9. [ acknowledgements ](#acknowledgements)
+10. [ Screen Shots ](#Sreenshots)
 ## Description
 
 Everyday we visit websites which use email ID, password or OTP based systems for verification. There are people who still fall into traps and thefts hence making the websites and devices insecure than ever. Including a face recognition feature during the registration process and sign in process along with password hence adds an additional security to every website the user opens. 
@@ -58,6 +58,8 @@ The project needs the following installations
 - pip
 - node js 
 - react js 
+- mongo
+
 ## Parts of the project
 
 There are three parts in the project
@@ -101,13 +103,6 @@ The API has been developed in Python using the flask framework. It uses deepface
 The data is passed using JSON file, ```first``` is image1 from the sign in page and ```second``` is the image extracted from the database through the email associated. The response sent through the API is binary number i.e. 0 and 1. 
 If response is ```1``` then the page is redirected to the main home page and shows recognition failed otherwsise. 
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 ## Running the project
 
 - Flask API
@@ -118,9 +113,9 @@ If response is ```1``` then the page is redirected to the main home page and sho
 
 ![image](https://user-images.githubusercontent.com/25116462/170831726-5ce77d75-901e-4f88-9bca-f7ba62ec793b.png)
 
+## Acknowledgements
 
-
-##Screenshots
+## Screenshots
 
 - Sign In
 
