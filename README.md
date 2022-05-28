@@ -130,6 +130,10 @@ If response is ```1``` then the page is redirected to the main home page and sho
 
 ![image](https://user-images.githubusercontent.com/25116462/170831762-df3718f9-dd21-403e-a748-d9509eb69f15.png)
 
+- Homepage 
+
+![image](https://user-images.githubusercontent.com/25116462/170831810-9e2d7652-5396-4ca6-aef0-9b85a55ebf46.png)
+
 
 
 
