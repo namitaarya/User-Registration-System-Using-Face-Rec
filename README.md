@@ -4,16 +4,16 @@
 
 ## Table of Contents 
  
-1. [ Description](#desc)
+1. [ Description](#Description)
 2. [ Usage ](#usage)
 3. [ How to use? ](#How-to-use)
 4. [ Dependencies ](#Dependencies)
 5. [ Parts of the project ](#Parts-of-the-project)
 6. [ How to run? ](#How-to-run)
 7. [ API ](#API)
-8. [ Packages Used ](#Packages)
+8. [ Packages Used ](#Packages-Used)
 9. [ Acknowledgements ](#Acknowledgements)
-10. [ Screen Shots ](#Sreenshots)
+10. [ Screenshots ](#Sreenshots)
 
 ## Description
 
@@ -107,6 +107,31 @@ If response is ```1``` then the page is redirected to the main home page and sho
 - Backend Server 
 
 ![image](https://user-images.githubusercontent.com/25116462/170831726-5ce77d75-901e-4f88-9bca-f7ba62ec793b.png)
+
+## Packages Used
+
+- Python 
+
+flask
+request
+json
+PIL
+base64
+io
+os
+shutil
+time
+deepface
+
+- JS 
+
+express
+cors
+mongoose
+axios
+react
+@miu
+react-webcam
 
 ## Acknowledgements
 
