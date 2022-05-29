@@ -6,10 +6,10 @@
  
 1. [ Description](#desc)
 2. [ Usage ](#usage)
-3. [ How to use? ](#how-to-use?)
+3. [ How to use? ](#How-to-use)
 4. [ Dependencies ](#Dependencies)
 5. [ Parts of the project ](#Parts-of-the-project)
-6. [ How to run? ](#How-to-run?)
+6. [ How to run? ](#How-to-run)
 7. [ API ](#API)
 8. [ Packages Used ](#Packages)
 9. [ Acknowledgements ](#Acknowledgements)
