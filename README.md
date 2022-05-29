@@ -5,7 +5,7 @@
 ## Table of Contents 
  
 1. [ Description](#Description)
-2. [ Usage ](#usage)
+2. [ Usage ](#Usage)
 3. [ How to use? ](#How-to-use)
 4. [ Dependencies ](#Dependencies)
 5. [ Parts of the project ](#Parts-of-the-project)
@@ -13,7 +13,7 @@
 7. [ API ](#API)
 8. [ Packages Used ](#Packages-Used)
 9. [ Acknowledgements ](#Acknowledgements)
-10. [ Screenshots ](#Sreenshots)
+10. [ Screenshots of the website ](#Screenshots-of-the-website)
 
 ## Description
 
