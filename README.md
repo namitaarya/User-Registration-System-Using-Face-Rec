@@ -6,14 +6,15 @@
  
 1. [ Description](#desc)
 2. [ Usage ](#usage)
-3. [ How to use? ](#How%20to%20use)
+3. [ How to use? ](#How&#32;to&#32;use?)
 4. [ Dependencies ](#Dependencies)
-5. [ Parts of the project ](#Parts%20of%20the%20project)
-6. [ How to run? ](#How%20to%20run?)
+5. [ Parts of the project ](#Parts&#32;of&#32;the&#32;project)
+6. [ How to run? ](#How&#32;to&#32;run?)
 7. [ API ](#API)
 8. [ Packages Used ](#Packages)
 9. [ acknowledgements ](#acknowledgements)
 10. [ Screen Shots ](#Sreenshots)
+
 ## Description
 
 Everyday we visit websites which use email ID, password or OTP based systems for verification. There are people who still fall into traps and thefts hence making the websites and devices insecure than ever. Including a face recognition feature during the registration process and sign in process along with password hence adds an additional security to every website the user opens. 
@@ -71,25 +72,19 @@ There are three parts in the project
 
 ## How to run?
 
-1. Clone the first repository: Engage-Frontend 
-```git clone "" ```
+1. Clone the repository
+```git clone https://github.com/namitaarya/MS-Engage ```
 
-2. Clone the second repository: Engage-Server
-```git clone "" ```
+2. Run ```npm install``` in Frontend
 
-3. Clone the third repository: Engage-API
-```git clone "" ```
+3. Run ```npm install``` in Backend
 
-4. Run ```npm install``` in Engage-Frontend
+4. Run ```pip install``` in API 
 
-5. Run ```npm install``` in Engage-Server
-
-6. Run ```pip install``` in Engage API 
-
-7. Once all the installations are done: 
-- In Engage-Server, run ```node index.js```
-- In Engage-API, run ```flask run```
-- In Engage-Frontend run ```npm start```
+5. Once all the installations are done: 
+- In Backend, run ```node index.js```
+- In API, run ```flask run```
+- In Frontend run ```npm start```
 
 8. Once, all the three repositories are up and running: 
 - The front end will run on ```PORT 3000```
