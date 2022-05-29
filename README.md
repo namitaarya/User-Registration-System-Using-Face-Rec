@@ -112,26 +112,11 @@ If response is ```1``` then the page is redirected to the main home page and sho
 
 - Python 
 
-flask
-request
-json
-PIL
-base64
-io
-os
-shutil
-time
-deepface
+flask, request, json, PIL, base64, io, os, shutil, time, deepface
 
 - JS 
 
-express
-cors
-mongoose
-axios
-react
-@miu
-react-webcam
+express, cors, mongoose, axios, react, @miu, react-webcam
 
 ## Acknowledgements
 
