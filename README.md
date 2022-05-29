@@ -126,7 +126,7 @@ express, cors, mongoose, axios, react, @miu, react-webcam
 - React Documentation
 - DeepFace API 
 
-## Screenshots
+## Screenshots of the website
 
 - Sign In
 
