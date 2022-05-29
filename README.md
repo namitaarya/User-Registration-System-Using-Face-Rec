@@ -110,6 +110,12 @@ If response is ```1``` then the page is redirected to the main home page and sho
 
 ## Acknowledgements
 
+- material UI for react 
+- Python Documentation 
+- Flask Documentation 
+- React Documentation
+- DeepFace API 
+
 ## Screenshots
 
 - Sign In
